@@ -1,3 +1,6 @@
+<img src = "https://user-images.githubusercontent.com/83545513/193085428-3f82bb83-9c41-4582-9a98-0ed3fec17389.png"/>
+
+
 <h1 align="center">Hi 👋, I'm Aditya Khaladkar</h1>
 <h3 align="center">A passionate developer from India</h3>
 

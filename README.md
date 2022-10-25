@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aditya Khaladkar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Android developer - Kotlin, Jetpack compose | GDSC Android Lead | Java 5 ⭐ @HackerRank</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-khaladkar&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-khaladkar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya-khaladkar" alt="aditya-khaladkar" /></a> </p>
 
 - 📫 How to reach me **adityakhaladkar98@gmail.com**
-
-- Android developer - Kotlin, Jetpack compose | GDSC Android Lead | Java 5 ⭐ @HackerRank
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

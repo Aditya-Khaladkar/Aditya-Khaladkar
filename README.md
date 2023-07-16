@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Khaladkar</h1>
-<h3 align="center">GSSoC'23 | Former App Dev Intern @Bajaj Finserv | Android developer - Kotlin, Jetpack compose | GDSC Android Lead | Java 5 ⭐ @HackerRank</h3>
+<h3 align="center">Former App Dev Intern @Bajaj Finserv | Android developer - Kotlin, Jetpack compose | GDSC Android Lead | Java 5 ⭐ @HackerRank</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya-khaladkar" alt="aditya-khaladkar" /></a> </p>
 
